@@ -16,7 +16,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 
 IPFS is used to upload and read product image. Farmer, while harvesting coffee, can upload product image and image is uploaded
 to IPFS via ipfs-http-client library with infura gateway. Once image is uploaded, a file hash is returned and this file hash is
-along with other product info is thus stored in ethereum blockchain platform.
+along with other product info is thus stored in ethereum blockchain test platform, Rinkeby.
 
 ## Smart Contract Info
 
